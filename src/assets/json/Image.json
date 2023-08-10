@@ -1,0 +1,12 @@
+{
+	"images": [
+		{
+			"source": "https://docs.mapbox.com/mapbox-gl-js/assets/colorado_flag.png",
+			"name": "colorado_flag"
+		},
+		{
+			"source": "https://docs.mapbox.com/mapbox-gl-js/assets/colorado_flag.png",
+			"name": "dark"
+		}
+	]
+}
